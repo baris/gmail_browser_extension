@@ -1,0 +1,21 @@
+{
+	"name": "Gmail on Steroids",
+	"version": "1.0",
+	"description": "Gmail as it should be...",
+	"content_scripts": [
+	{
+		"matches": [
+			"https://mail.google.com/*",
+			"http://mail.google.com/*"
+		],
+		"css": [
+			"mygmail.css"
+		],
+		"js": [
+			"mygmail.js"
+		],
+		"run_at": "document_end",
+		"all_frames": true
+	}
+	]
+}

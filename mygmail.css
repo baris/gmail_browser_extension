@@ -1,0 +1,14 @@
+/* Text size */
+.nH {
+	font-size: 13pt;
+}
+
+/* Hide ads in message view */
+table[class="Bs nH iY"] td:nth-child(3) {
+	display: none !important;
+}
+
+/* Hide footer */
+.mn, .l6, .mp, .ma {
+	display: none !important;
+}
