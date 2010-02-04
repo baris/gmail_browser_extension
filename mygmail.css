@@ -2,10 +2,21 @@
 .nH {
 	font-size: 13pt;
 }
+div[class="At"] > textarea {
+    font-size: 12pt !important;
+}
 
 /* Hide ads in message view */
 table[class="Bs nH iY"] td:nth-child(3) {
 	display: none !important;
+}
+
+/* Hide action buttons below */
+div[class=" iE D E"] {
+    display: none !important;
+}
+div[class="AY D E"] {
+    display: none !important;
 }
 
 /* Hide footer */
