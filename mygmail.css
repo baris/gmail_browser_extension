@@ -7,7 +7,7 @@ div[class="At"] > textarea {
 }
 
 /* Hide ads in message view */
-table[class="Bs nH iY"] td:nth-child(3) {
+table[class="Bs nH iY"] > tr > td:nth-child(3) {
 	display: none !important;
 }
 
