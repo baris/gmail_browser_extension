@@ -1,7 +1,8 @@
 /* Text size */
-.nH {
-	font-size: 13pt;
+.nH .gt {
+    font-size: 12pt;
 }
+
 div[class="At"] > textarea {
     font-size: 12pt !important;
 }
