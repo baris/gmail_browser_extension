@@ -1,10 +1,12 @@
 /* Text size */
-.nH .gt {
-    font-size: 12pt;
+.nH, .nU, .xY, .gt {
+    font-size: 10pt !important;
+    font-family: Monaco;
 }
 
 div[class="At"] > textarea {
-    font-size: 12pt !important;
+    font-size: 10pt !important;
+    font-family: Monaco;
 }
 
 /* Hide ads in message view */
