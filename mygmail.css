@@ -1,12 +1,12 @@
 /* Text size */
-.nH, .nU, .xY, .gt {
-    font-size: 10pt !important;
-    font-family: Monaco;
+.nH, .nU, .xY, .gt, /* for Buzz */ .Ix {
+    font-size: 11pt !important;
+/*    font-family: Monaco;    */
 }
 
 div[class="At"] > textarea {
-    font-size: 10pt !important;
-    font-family: Monaco;
+    font-size: 11pt !important;
+/*    font-family: Monaco;    */
 }
 
 /* Hide ads in message view */

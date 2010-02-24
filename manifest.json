@@ -1,7 +1,7 @@
 {
-	"name": "Baris Gmail",
+	"name": "Gmail++ for Chrome",
 	"version": "1.0",
-	"description": "Gmail as it should be...",
+	"description": "Gmail++ : not that it's better...",
 	"content_scripts": [
 	{
 		"matches": [
