@@ -26,3 +26,13 @@ div[class="AY D E"] {
 .mn, .l6, .mp, .ma {
 	display: none !important;
 }
+
+
+/* css fun
+div.nH:hover {
+    -webkit-transform: rotate(360deg);
+    -webkit-transition: all 1s ease-in;
+}
+*/
+
+

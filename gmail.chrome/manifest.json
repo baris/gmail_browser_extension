@@ -1,7 +1,7 @@
 {
 	"name": "Gmail++ for Chrome",
 	"version": "1.0",
-	"description": "Gmail++ : not that it's better...",
+	"description": "Gmail extension for Chrome",
 	"content_scripts": [
 	{
 		"matches": [
