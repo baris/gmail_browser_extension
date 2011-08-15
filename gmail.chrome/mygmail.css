@@ -23,7 +23,12 @@ table[class="Bs nH iY"] > tr > td:nth-child(3) {
 table[class="Bs nH dFFoge id"] > tr > td:nth-child(2) {
    display: none !important;
 }
-
+table[class="Bs nH dFFoge id dGpsQd"] > tr > td:nth-child(2) {
+   display: none !important;
+}
+table[class="Bs nH dFFoge dGpsQd id"] > tr > td:nth-child(2) {
+   display: none !important;
+}
 
 /* Hide action buttons below */
 div[class=" iE D E"] {
