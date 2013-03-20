@@ -1,6 +1,7 @@
 {
 	"name": "Gmail++ for Chrome",
-	"version": "1.0",
+        "version": "1.0",
+	"manifest_version": 2,
 	"description": "Gmail extension for Chrome",
 	"content_scripts": [
 	{
